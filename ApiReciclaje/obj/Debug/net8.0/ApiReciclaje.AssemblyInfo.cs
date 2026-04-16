@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ApiReciclaje")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8da16b3e9bff11a8131bfe5f6931b7b8d8c37de1")]
 [assembly: System.Reflection.AssemblyProductAttribute("ApiReciclaje")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ApiReciclaje")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
